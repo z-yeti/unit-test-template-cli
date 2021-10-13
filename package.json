@@ -5,6 +5,11 @@
   "main": "bin/index.js",
   "author": "Zach Millar",
   "license": "ISC",
+  "homepage": "https://github.com/z-yeti/unit-test-template-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/z-yeti/unit-test-template-cli"
+  },
   "bin": {
     "unit-tests-template": "./bin/index.js",
     "utt": "./bin/index.js"
