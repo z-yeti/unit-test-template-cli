@@ -22,7 +22,7 @@ const componentName = filePath.split("/").pop();
 const pathToTestFile = `${filePath}.test.${extension}`;
 
 const testFileContent = `import React from 'react'
-import { render, screen, waitFor } from '@testing-library/react'
+import { render, screen } from '@testing-library/react'
 import { ${componentName} } from './${componentName}'
 
 describe('${componentName}', () => {
