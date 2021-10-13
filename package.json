@@ -1,0 +1,15 @@
+{
+  "name": "unit-tests-template-cli",
+  "version": "1.0.0",
+  "description": "Quick template unit tests",
+  "main": "bin/index.js",
+  "author": "Zach Millar",
+  "license": "ISC",
+  "bin": {
+    "unit-tests-template": "./bin/index.js",
+    "utt": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
