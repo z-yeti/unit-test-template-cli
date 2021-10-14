@@ -6,11 +6,9 @@
 npx unit-tests-template-cli <full_path_to_file> -p
 ```
 
-## Global:
+## Global (allows shorthand):
 ### Installation 💿:
-- clone repo to your code/utils or whatever you wish
-- `cd <where_you_cloned>`
-- `npm i -g .`
+- `npm install -g unit-tests-template-cli`
 ### Usage ⌨️:
 ```console
 unit-tests-template <full_path_to_file> -p

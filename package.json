@@ -1,6 +1,6 @@
 {
   "name": "unit-tests-template-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Quick template unit tests",
   "main": "bin/index.js",
   "author": "Zach Millar",
