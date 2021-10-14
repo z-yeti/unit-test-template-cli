@@ -3,9 +3,7 @@
 ## npx:
 ### Usage ⌨️:
 ```console
-npx unit-tests-template <full_path_to_file> -p
-or
-npx utt <full_path_to_file> -p
+npx unit-tests-template-cli <full_path_to_file> -p
 ```
 
 ## Global:
