@@ -1,28 +1,24 @@
 # Quick Template a Unit Test 🧪
 
-## Installation 💿:
-### Project:
-- `npm i unit-tests-template-cli` or `yarn add unit-tests-template-cli`
-
-### Global:
-- clone repo to your code/utils or whatever you wish
-- `cd <where_you_cloned>`
-- `npm i -g .`
-
-## Usage ⌨️:
-### Project:
+## npx:
+### Usage ⌨️:
 ```console
 npx unit-tests-template <full_path_to_file> -p
 or
 npx utt <full_path_to_file> -p
 ```
-### Global:
+
+## Global:
+### Installation 💿:
+- clone repo to your code/utils or whatever you wish
+- `cd <where_you_cloned>`
+- `npm i -g .`
+### Usage ⌨️:
 ```console
 unit-tests-template <full_path_to_file> -p
 or
 utt <full_path_to_file> -p
 ```
-
 
 ### Screencap Example 📼:
 
